@@ -142,7 +142,7 @@ Saya passionate dalam menciptakan desain visual yang menarik dan komunikatif. Sa
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge)](link-portfolio-kamu)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge)]((https://docs.google.com/document/d/1UDF5TYit-BlNM6HplR0gyEL-J2q4My5o/edit?usp=drive_link&ouid=111158337784988302827&rtpof=true&sd=true))
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sna.tia_/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](link-linkedin-kamu)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:robbywilliamspascal@gmail.com)
